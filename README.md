@@ -90,10 +90,10 @@ The frontend code is structured as follows:
 * `./src` - The main frontend code.
 * `./src/assets` - Static assets.
 * `./src/client` - The generated OpenAPI client.
-* `src/components` -  The different components of the frontend.
+* `./src/components` -  The different components of the frontend.
 * `./src/hooks` - Custom hooks.
 * `./src/routes` - The different routes of the frontend which include the pages.
-* `theme.tsx` - The Chakra UI custom theme.
+* `./src/theme.tsx` - The Chakra UI custom theme.
 
 ## End-to-End Testing with Playwright
 
